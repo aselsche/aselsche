@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aselsche
-- 👀 I’m interested in learning about data analytics and project management.
-- 🌱 I’m currently learning cool things about Data Analytics!
-- 💞️ I’m looking to collaborate on projects where I can utilize my new skills obtained at my current Bootcamp in Data Analytics.
+- 👋 Hi, I’m Asel Connolly
+- 👀 I’m interested in data analytics tools and applying them in projects.
+- 🌱 I’m currently learning cool things about Data Analytics at UNC Chapel Hill Boot Camp!
+- 💞️ I’m looking to collaborate on projects where I can utilize my new skills.
 - 📫 How to reach me: email me!
 
 <!---
